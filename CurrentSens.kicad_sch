@@ -1953,7 +1953,7 @@
     (property "Value" "L" (at 122.555 27.305 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_Ferrocore_DLG-0403" (at 122.555 30.48 0)
+    (property "Footprint" "CurrentSens:SDR0604330KL" (at 122.555 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 122.555 30.48 0)
