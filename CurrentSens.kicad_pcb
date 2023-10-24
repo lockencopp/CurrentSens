@@ -624,10 +624,10 @@
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp 2fae309a-4df3-431c-9498-d3e8b59264db))
     (pad "2" thru_hole oval (at 5.08 -5.08) (size 3.5 7) (drill 2.01) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Ext") (pintype "passive") (tstamp b6a8afee-6b46-4a87-995f-742849237ce2))
-    (model "${KIPRJMOD}/step/1564889-62.stp"
-      (offset (xyz 0 5.1 0))
+    (model "${KIPRJMOD}/step/73100-0131.STEP"
+      (offset (xyz 0 15.6 6.53))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 180))
+      (rotate (xyz 90 180 0))
     )
   )
 
